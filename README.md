@@ -94,8 +94,8 @@ The dashboard enables IoT device managers and system operators to:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/obodetek-dashboard.git
-cd obodetek-dashboard
+git clone https://Obodetek/NVIDIA/Dashboard.gif
+cd Dashboar
 
 # Install dependencies
 npm install
