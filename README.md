@@ -105,8 +105,8 @@ npm run dev
 
 ```
 
-##📬 Contact
-For any questions or feedback:
+## 📬 Contact
+- For any questions or feedback:
 
 Email: support@obodetek.com
 Website: obodetek.com
